@@ -1,5 +1,5 @@
 export const Api = {
-	baseUrl: "https://localhost:3000",
+	baseUrl: "https://projeto--2.herokuapp.com",
 
 	createUrl: () => Api.baseUrl + "/personagens/create",
 
